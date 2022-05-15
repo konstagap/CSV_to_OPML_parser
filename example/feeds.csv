@@ -1,0 +1,280 @@
+﻿Domain,Feed,Title,Category,Status,Score,OG-Images,Content Type,Creative Instance ID,Destination Domains
+brave.com,https://brave.com/blog/index.xml,Brave Blog,Brave,Enabled,1,,article,,brave.com
+cnn.com,https://rss.cnn.com/rss/cnn_topstories.rss,CNN,Top News,Enabled,7.04,,article,,www.cnn.com
+nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,The New York Times,Top News,Enabled,5.7400000000000002,On,article,,www.nytimes.com
+bbc.co.uk,https://feeds.bbci.co.uk/news/rss.xml?edition=int,BBC,Top News,Enabled,3.2200000000000002,,article,,www.bbc.co.uk
+foxnews.com,https://feeds.foxnews.com/foxnews/latest,FOX News,Top News,Enabled,2.8100000000000001,On,article,,www.foxnews.com
+theguardian.com,https://www.theguardian.com/world/rss,The Guardian,Top News,Enabled,2.3100000000000001,On,article,,www.theguardian.com
+washingtonpost.com,https://www.washingtonpost.com/?outputType=rss,Washington Post,Top News,Enabled,2.2999999999999998,,article,,www.washingtonpost.com
+nbcnews.com,https://feeds.nbcnews.com/nbcnews/public/news,NBC News,Top News,Enabled,2.2200000000000002,,article,,www.nbcnews.com
+abcnews.com,https://abcnews.go.com/abcnews/topstories,ABC News,Top News,Enabled,1.49,On,article,,abcnews.go.com
+dailymail.co.uk,https://www.dailymail.co.uk/home/index.rss,Daily Mail,Top News,Enabled,1.4199999999999999,On,article,,www.dailymail.co.uk
+nypost.com,https://nypost.com/news/feed/,New York Post,Top News,Enabled,1.3899999999999999,On,article,,nypost.com
+npr.org,https://feeds.npr.org/1001/rss.xml,NPR,Top News,Enabled,1.0600000000000001,,article,,www.npr.org
+wsj.com,https://feeds.a.dj.com/rss/RSSWorldNews.xml,WSJ,Top News,Enabled,0.38,,article,,www.wsj.com
+latimes.com,https://www.latimes.com/local/rss2.0.xml,LA Times,Top News,Disabled,0.070000000000000007,,article,,www.latimes.com
+newsweek.com,https://www.newsweek.com/rss,Newsweek,Top News,Disabled,-0.040000000000000001,,article,,www.newsweek.com
+politico.com,https://rss.politico.com/politics-news.xml,Politico,Top News,Disabled,-0.050000000000000003,,article,,www.politico.com
+independent.co.uk,https://www.independent.co.uk/rss,The Independent,Top News,Disabled,-0.33000000000000002,,article,,www.independent.co.uk
+breitbart.com,https://feeds.feedburner.com/breitbart,Breitbart,Top News,Disabled,-0.45000000000000001,,article,,www.breitbart.com
+thehill.com,https://thehill.com/rss/syndicator/19110,The Hill,Top News,Disabled,-0.46999999999999997,,article,,thehill.com
+washingtontimes.com,https://www.washingtontimes.com/rss/headlines/news/,The Washington Times,Top News,Disabled,-0.77000000000000002,,article,,www.washingtontimes.com
+thedailybeast.com,https://feeds.feedburner.com/thedailybeast/articles,The Daily Beast,Top News,Disabled,-0.80000000000000004,,article,,www.thedailybeast.com
+telegraph.co.uk,https://www.telegraph.co.uk/news/rss.xml,The Telegraph,Top News,Disabled,-0.84999999999999998,,article,,www.telegraph.co.uk
+dailycaller.com,https://dailycaller.com/section/us/feed/,Daily Caller,Top News,Disabled,-0.89000000000000001,,article,,dailycaller.com
+theblaze.com,https://www.theblaze.com/feeds/news.rss,The Blaze,Top News,Disabled,-0.96999999999999997,,article,,www.theblaze.com
+cbc.ca,https://www.cbc.ca/cmlink/rss-topstories,CBC,Top News,Disabled,-1.0600000000000001,,article,,www.cbc.ca
+aljazeera.com,https://www.aljazeera.com/xml/rss/all.xml,Al Jazeera,Top News,Disabled,-1.0700000000000001,,article,,www.aljazeera.com
+smh.com.au,https://www.smh.com.au/rss/feed.xml,Sydney Morning Herald,Top News,Disabled,-1.1000000000000001,,article,,www.smh.com.au
+axios.com,https://api.axios.com/feed/,Axios,Top News,Disabled,-1.1399999999999999,On,article,,www.axios.com
+spiegel.de,https://www.spiegel.de/international/index.rss,Der Spiegel,Top News,Disabled,-1.1899999999999999,,article,,www.spiegel.de
+sky.com,https://feeds.skynews.com/feeds/rss/world.xml,Sky News,Top News,Disabled,-1.28,On,article,,news.sky.com
+bostonglobe.com,https://www.bostonglobe.com/rss/feedly.xml,The Boston Globe,Top News,Disabled,-1.28,,article,,www.bostonglobe.com
+euronews.com,https://feeds.feedburner.com/euronews/en/home/,Euronews,Top News,Disabled,-1.3200000000000001,,article,,www.euronews.com
+ft.com,https://www.ft.com/rss/home/uk,Financial Times,Top News,Disabled,-1.3300000000000001,,article,,www.ft.com
+motherjones.com,https://feeds.feedburner.com/motherjones/main,Mother Jones,Top News,Disabled,-1.3300000000000001,,article,,www.motherjones.com
+csmonitor.com,https://rss.csmonitor.com/feeds/top,The Christian Science Monitor,Top News,Disabled,-1.3500000000000001,,article,,www.csmonitor.com
+propublica.org,https://www.propublica.org/feeds/propublica/main,ProPublica,Top News,Disabled,-1.3799999999999999,,article,,www.propublica.org
+tnr.com,https://newrepublic.com/rss.xml,The New Republic,Top News,Disabled,-1.3899999999999999,,article,,newrepublic.com
+democracynow.org,https://www.democracynow.org/democracynow.rss,Democracy Now!,Top News,Disabled,-1.3899999999999999,,article,,www.democracynow.org
+foreignpolicy.com,https://foreignpolicy.com/feed/,Foreign Policy,Top News,Disabled,-1.3999999999999999,,article,,foreignpolicy.com
+thenation.com,https://www.thenation.com/feed/?post_type=article,The Nation,Top News,Disabled,-1.4199999999999999,,article,,www.thenation.com
+huffingtonpost.com,https://www.huffpost.com/section/world-news/feed,HuffPost,Top News,Disabled,-1.4299999999999999,,article,,www.huffpost.com
+finance.yahoo.com,https://finance.yahoo.com/rss/topstories,Yahoo Finance,Business,Enabled,6.0899999999999999,On,article,,www.barrons.com;www.marketwatch.com;www.investors.com;finance.yahoo.com;www.investopedia.com
+fastcompany.com,https://feeds.feedburner.com/fastcompany/headlines,Fast Company,Business,Enabled,3.6600000000000001,,article,,www.fastcompany.com
+forbes.com,https://www.forbes.com/real-time/feed/,Forbes,Business,Enabled,3.6099999999999999,,article,,www.forbes.com
+wsj.com,https://feeds.a.dj.com/rss/RSSMarketsMain.xml,WSJ - Markets,Business,Enabled,2.4900000000000002,,article,,www.wsj.com
+cnbc.com,https://www.cnbc.com/id/100003114/device/rss/rss.html,CNBC,Business,Disabled,2.0899999999999999,,article,,www.cnbc.com
+businessinsider.com,https://feeds2.feedburner.com/businessinsider,Business Insider,Business,Disabled,2.0299999999999998,,article,,www.businessinsider.com;markets.businessinsider.com
+entrepreneur.com,https://feeds.feedburner.com/entrepreneur/latest,Entrepreneur,Business,Disabled,1.3899999999999999,,article,,www.entrepreneur.com
+hbr.org,https://feeds.harvardbusiness.org/harvardbusiness/,Harvard Business Review,Business,Disabled,1.1699999999999999,,article,,hbr.org
+marketwatch.com,https://feeds.marketwatch.com/marketwatch/topstories/,MarketWatch,Business,Disabled,0.88,,article,,www.marketwatch.com
+inc.com,https://www.inc.com/rss/homepage.xml,Inc.com,Business,Disabled,0.71999999999999997,,article,,www.inc.com
+economist.com,https://www.economist.com/business/rss.xml,The Economist,Business,Disabled,0.69999999999999996,,article,,www.economist.com
+freakonomics.com,https://freakonomics.com/feed/,Freakonomics,Business,Disabled,-0.23999999999999999,,article,,freakonomics.com
+fool.com,https://www.fool.com/a/feeds/foolwatch?format=rss2&id=foolwatch&apikey=foolwatch-feed,The Motley Fool,Business,Disabled,-0.31,,article,,www.fool.com
+foxbusiness.com,https://feeds.foxbusiness.com/foxbusiness/latest,FOX Business,Business,Disabled,-0.60999999999999999,On,article,,www.foxbusiness.com
+qz.com,https://cms.qz.com/feed/,Quartz,Business,Disabled,-0.85999999999999999,,article,,qz.com
+psfk.com,https://www.psfk.com/feeds/psfk,PSFK,Business,Disabled,-1.1399999999999999,,article,,www.psfk.com
+smallbiztrends.com,https://feeds.feedburner.com/SmallBusinessTrends,Small Business Trends,Business,Disabled,-1.3600000000000001,,article,,smallbiztrends.com
+seekingalpha.com,https://seekingalpha.com/feed.xml,Seeking Alpha,Business,Disabled,-1.3899999999999999,,article,,seekingalpha.com
+fortune.com,https://fortune.com/feed/,Fortune,Business,Disabled,-1.45,,article,,fortune.com
+gigaom.com,https://gigaom.com/feed/,Gigaom,Business,Disabled,-1.55,,article,,gigaom.com
+ft.com,https://www.ft.com/markets?format=rss,Financial Times - Markets,Business,Disabled,-1.6599999999999999,,article,,www.ft.com
+autoblog.com,https://www.autoblog.com/rss.xml,Autoblog,Cars,Enabled,10.1,,article,,www.autoblog.com
+jalopnik.com,https://jalopnik.com/rss,Jalopnik,Cars,Enabled,4.6699999999999999,,article,,jalopnik.com
+caranddriver.com,https://www.caranddriver.com/rss/all.xml/,Car and Driver,Cars,Enabled,4.3300000000000001,,article,,www.caranddriver.com
+edmunds.com,https://www.edmunds.com/feeds/rss/articles.xml,Edmunds,Cars,Disabled,4.2300000000000004,,article,,www.edmunds.com
+motor1.com,https://www.motor1.com/rss/news/all/,Motor1,Cars,Disabled,3.4300000000000002,,article,,www.motor1.com
+thetruthaboutcars.com,https://www.thetruthaboutcars.com/feed/,The Truth About Cars,Cars,Disabled,1.8799999999999999,,article,,www.thetruthaboutcars.com
+electrek.co,https://electrek.co/feed/,Electrek,Cars,Disabled,0.97999999999999998,,article,,electrek.co
+insideevs.com,https://insideevs.com/rss/articles/all/,InsideEVs,Cars,Disabled,1,,article,,insideevs.com
+carbuzz.com,https://carbuzz.com/rss/news,CarBuzz,Cars,Disabled,1.02,,article,,carbuzz.com
+autosport.com,https://www.autosport.com/rss/all/news/,Autosport,Cars,Disabled,0.5,,article,,www.autosport.com
+speedhunters.com,https://feeds.feedburner.com/Speedhunters,Speedhunters,Cars,Disabled,0.40000000000000002,,article,,www.speedhunters.com
+carscoops.com,https://www.carscoops.com/category/news/feed/,Carscoops,Cars,Disabled,0.34999999999999998,,article,,www.carscoops.com
+bikeexif.com,https://www.bikeexif.com/feed,Bike EXIF,Cars,Disabled,0.20999999999999999,,article,,www.bikeexif.com
+thedrive.com,https://api.thedrive.com/feed/?post_type=the_drive_article,The Drive,Cars,Disabled,0.44,,article,,www.thedrive.com
+autocar.co.uk,https://www.autocar.co.uk/rss/latestnews,Autocar,Cars,Disabled,-0.17999999999999999,,article,,www.autocar.co.uk
+bringatrailer.com,https://bringatrailer.com/feed/,Bring A Trailer,Cars,Disabled,-0.20999999999999999,,article,,bringatrailer.com
+paultan.org,https://paultan.org/feed/,Paul Tan's Automotive News,Cars,Disabled,-0.40000000000000002,,article,,paultan.org
+thecarconnection.com,https://feeds.feedburner.com/MotorAuthority2,The Car Connection,Cars,Disabled,-0.42999999999999999,,article,,www.motorauthority.com
+cointelegraph.com,https://cointelegraph.com/rss,Cointelegraph,Crypto,Enabled,16.960000000000001,,article,,cointelegraph.com
+bitcoinmagazine.com,https://feeds.feedburner.com/BitcoinMagazine,Bitcoin Magazine,Crypto,Enabled,3.0899999999999999,,article,,bitcoinmagazine.com
+decrypt.co,https://decrypt.co/feed/,Decrypt,Crypto,Enabled,2.23,,article,,decrypt.co
+bitcoinist.com,https://feeds.feedburner.com/bitcoinist/,Bitcoinist,Crypto,Enabled,1.96,,article,,bitcoinist.com
+newsbtc.com,https://www.newsbtc.com/feed/,NewsBTC,Crypto,Disabled,1.77,,article,,www.newsbtc.com
+99bitcoins.com,https://99bitcoins.com/feed/,99 Bitcoins,Crypto,Disabled,1.1899999999999999,,article,,99bitcoins.com
+cryptoslate.com,https://cryptoslate.com/feed/,CryptoSlate,Crypto,Disabled,0.17999999999999999,,article,,cryptoslate.com
+financemagnates.com,https://www.financemagnates.com/cryptocurrency/feed/,Finance Magnates,Crypto,Disabled,-0.070000000000000007,,article,,www.financemagnates.com
+btcmanager.com,https://btcmanager.com/feed/,BTCMANAGER,Crypto,Disabled,-0.16,,article,,btcmanager.com
+blockgeeks.com,https://blockgeeks.com/feed/,Blockgeeks,Crypto,Disabled,-0.28000000000000003,,article,,blockgeeks.com
+cryptopotato.com,https://cryptopotato.com/feed/,CryptoPotato,Crypto,Disabled,-0.29999999999999999,,article,,cryptopotato.com
+wikihow.com,https://www.wikihow.com/feed.rss,Wikihow,Culture,Enabled,11.09,On,article,,www.wikihow.com
+theatlantic.com,https://feeds.feedburner.com/TheAtlantic,The Atlantic,Culture,Enabled,7.1100000000000003,,article,,www.theatlantic.com
+ted.com,https://feeds.feedburner.com/tedtalks_video,TED Talks,Culture,Enabled,6.6100000000000003,On,article,,www.ted.com
+vox.com,https://www.vox.com/rss/index.xml,Vox,Culture,Enabled,6.21,,article,,www.vox.com
+slate.com,https://slate.com/feeds/all.rss,Slate,Culture,Enabled,5.5599999999999996,,article,,slate.com
+vice.com,https://www.vice.com/en/rss?locale=en_us,VICE,Culture,Enabled,5.5300000000000002,,article,,www.vice.com
+newyorker.com,https://www.newyorker.com/feed/everything,The New Yorker,Culture,Disabled,3.96,,article,,www.newyorker.com
+boingboing.net,https://boingboing.net/feed,Boing Boing,Culture,Disabled,2.27,,article,,boingboing.net
+brainpickings.org,https://feeds.feedburner.com/brainpickings/rss,Brain Pickings,Culture,Disabled,1.9399999999999999,,article,,www.themarginalian.org
+vanityfair.com,https://www.vanityfair.com/feed/rss,Vanity Fair,Culture,Disabled,1.9099999999999999,,article,,www.vanityfair.com
+coolhunting.com,https://coolhunting.com/feed/atom/,Cool Hunting,Culture,Disabled,1.1499999999999999,,article,,coolhunting.com
+complex.com,https://assets.complex.com/feeds/channels/all.xml,Complex,Culture,Disabled,1.1499999999999999,,article,,www.complex.com;solecollector.com
+mentalfloss.com,https://www.mentalfloss.com/rss.xml,Mental Floss,Culture,Disabled,0.68000000000000005,,article,,www.mentalfloss.com
+thoughtcatalog.com,https://feeds.feedburner.com/ThoughtCatalog,Thought Catalog,Culture,Disabled,0.38,,article,,thoughtcatalog.com
+openculture.com,https://feeds.feedburner.com/OpenCulture,Open Culture,Culture,Disabled,0.27000000000000002,,article,,www.openculture.com
+salon.com,https://www.salon.com/feed/,Salon.com,Culture,Disabled,0.050000000000000003,,article,,www.salon.com
+postsecret.blogspot.com,https://postsecret.blogspot.com/feeds/posts/default,PostSecret,Culture,Disabled,-0.059999999999999998,,article,,postsecret.blogspot.com
+upworthy.com,https://feeds.feedburner.com/upworthy,Upworthy,Culture,Disabled,-0.11,,article,,biztoc.com
+kottke.org,https://feeds.kottke.org/main,kottke.org,Culture,Disabled,-0.16,,article,,kottke.org
+nybooks.com,https://feeds.feedburner.com/nybooks,The New York Review of Books,Culture,Disabled,-0.40000000000000002,,article,,www.nybooks.com
+theroot.com,https://www.theroot.com/rss/full,The Root,Culture,Disabled,-0.42999999999999999,,article,,www.theroot.com
+tmz.com,https://www.tmz.com/rss.xml,TMZ,Entertainment,Enabled,3.7000000000000002,,article,,www.tmz.com
+rollingstone.com,https://www.rollingstone.com/music/feed/,Rolling Stone,Entertainment,Enabled,2.1899999999999999,,article,,www.rollingstone.com
+variety.com,https://feeds.feedburner.com/variety/headlines,Variety,Entertainment,Enabled,2.1400000000000001,,article,,variety.com
+eonline.com,https://syndication.eonline.com/syndication/feeds/rssfeeds/topstories.xml,E! Online,Entertainment,Enabled,1.3899999999999999,,article,,www.eonline.com
+indiewire.com,https://www.indiewire.com/feed/,IndieWire,Entertainment,Enabled,1.04,On,article,,www.indiewire.com
+io9.gizmodo.com,https://feeds.feedburner.com/io9/,io9,Entertainment,Disabled,1.01,,article,,gizmodo.com
+deadline.com,https://deadline.com/feed/,Deadline,Entertainment,Disabled,0.90000000000000002,,article,,deadline.com
+slashfilm.com,https://feeds.feedburner.com/slashfilm,SlashFilm,Entertainment,Disabled,0.81999999999999995,,article,,www.slashfilm.com
+ign.com,https://feeds.ign.com/ign/reviews,IGN Reviews,Entertainment,Disabled,0.53000000000000003,,article,,www.ign.com
+avclub.com,https://www.avclub.com/rss,The A.V. Club,Entertainment,Disabled,0.41999999999999998,,article,,www.avclub.com
+vanityfair.com,https://www.vanityfair.com/feed/rss,Vanity Fair,Entertainment,Disabled,0.080000000000000002,,article,,www.vanityfair.com
+firstshowing.net,https://www.firstshowing.net/feed/?full,FirstShowing.net,Entertainment,Disabled,-0.01,On,article,,www.firstshowing.net
+etonline.com,https://feeds.feedburner.com/ETTopStories,ET,Entertainment,Disabled,-0.16,,article,,www.etonline.com
+usmagazine.com,https://www.usmagazine.com/category/entertainment/feed/,Us Weekly,Entertainment,Disabled,-0.28999999999999998,,article,,www.usmagazine.com
+flavorwire.com,https://feeds.feedburner.com/flavorwire-rss,Flavorwire,Entertainment,Disabled,-0.44,,article,,www.flavorwire.com
+filmschoolrejects.com,https://feeds.feedburner.com/FilmSchoolRejects,Film School Rejects,Entertainment,Disabled,-0.5,,article,,filmschoolrejects.com
+aintitcool.com,https://www.aintitcool.com/node/feed/,Ain't It Cool,Entertainment,Disabled,-0.57999999999999996,,article,,www.aintitcool.com
+cinemablend.com,https://www.cinemablend.com/rss/topic/news/movies,CinemaBlend,Entertainment,Disabled,-0.63,,article,,www.cinemablend.com
+hollywoodlife.com,https://hollywoodlife.com/feed/,Hollywood Life,Entertainment,Disabled,-0.68999999999999995,,article,,hollywoodlife.com
+tvline.com,https://tvline.com/feed/,TVLine,Entertainment,Disabled,-0.87,,article,,tvline.com
+refinery29.com,https://www.refinery29.com/index.xml,Refinery29,Fashion,Enabled,7.9500000000000002,,article,,www.refinery29.com
+artofmanliness.com,https://feeds2.feedburner.com/TheArtOfManliness,The Art of Manliness,Fashion,Enabled,5.71,,article,,www.artofmanliness.com
+hypebeast.com,https://feeds.feedburner.com/hypebeast/feed,Hypebeast,Fashion,Enabled,4.4199999999999999,,article,,hypebeast.com
+popsugar.com,https://www.popsugar.com/feed,Popsugar,Fashion,Enabled,3.3599999999999999,,article,,www.popsugar.com
+uncrate.com,https://feeds.feedburner.com/uncrate,Uncrate,Fashion,Enabled,3.1099999999999999,,article,,uncrate.com
+fashionista.com,https://feeds.feedburner.com/fashionistacom,Fashionista,Fashion,Enabled,3.0299999999999998,,article,,fashionista.com
+gq.com,https://www.gq.com/feed/rss,GQ,Fashion,Disabled,2.6200000000000001,,article,,www.gq.com
+esquire.com,https://www.esquire.com/rss/style.xml/,Esquire,Fashion,Disabled,2.1000000000000001,,article,,www.esquire.com
+whowhatwear.com,https://feeds.whowhatwear.com/whowhatwear,Who What Wear,Fashion,Disabled,1.9199999999999999,,article,,www.whowhatwear.com
+elle.com,https://www.elle.com/rss/fashion.xml/,Elle,Fashion,Disabled,1.8,,article,,www.elle.com
+vogue.com,https://www.vogue.com/feed/rss,Vogue,Fashion,Disabled,1.6399999999999999,,article,,www.vogue.com
+highsnobiety.com,https://feeds.feedburner.com/highsnobiety/rss,Highsnobiety,Fashion,Disabled,1.49,,article,,www.highsnobiety.com
+businessoffashion.com,https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml,The Business of Fashion,Fashion,Disabled,0.87,,article,,www.businessoffashion.com
+intothegloss.com/,https://feeds.feedburner.com/intothegloss/oqoU,Into The Gloss,Fashion,Disabled,0.02,,article,,intothegloss.com
+wearedore.com,https://www.wearedore.com/feed/,DORÉ,Fashion,Disabled,-0.27000000000000002,,article,,www.wearedore.com
+wwd.com,https://wwd.com/custom-feed/recent-stories/,WWD,Fashion,Disabled,-0.33000000000000002,,article,,wwd.com
+bubbyandbean.com/,https://feeds.feedburner.com/BubbyAndBean,Bubby and Bean,Fashion,Disabled,-0.56000000000000005,,article,,www.bubbyandbean.com
+honestlywtf.com,https://feeds.feedburner.com/honestlywtf,Honestly WTF,Fashion,Disabled,-0.62,,article,,honestlywtf.com
+fashionbeans.com,https://www.fashionbeans.com/feed/,FashionBeans,Fashion,Disabled,-0.67000000000000004,,article,,www.fashionbeans.com
+putthison.com,https://putthison.com/feed/,Put This On,Fashion,Disabled,-0.83999999999999997,,article,,putthison.com
+thekitchn.com,https://feeds.feedburner.com/apartmenttherapy/thekitchn,Kitchn,Food,Enabled,11.09,,article,,www.thekitchn.com
+bonappetit.com,https://www.bonappetit.com/feed/rss,Bon Appétit,Food,Enabled,6.7999999999999998,,article,,www.bonappetit.com
+skillet.lifehacker.com,https://lifehacker.com/rss,Lifehacker - Skillet,Food,Enabled,6.1600000000000001,,article,,lifehacker.com
+eater.com,https://feeds.feedburner.com/EaterNational,Eater,Food,Enabled,5.7000000000000002,,article,,www.eater.com;nymag.com;austin.eater.com
+simplyrecipes.com,https://www.simplyrecipes.com/feeds/google-news,Simply Recipes,Food,Disabled,5.3700000000000001,,article,,www.simplyrecipes.com
+seriouseats.com,https://feeds.seriouseats.com/seriouseatsfeaturesvideos,Serious Eats,Food,Disabled,5.0300000000000002,,article,,www.seriouseats.com
+food52.com,https://feeds.feedburner.com/food52-TheAandMBlog,Food52,Food,Disabled,4.2999999999999998,,article,,food52.com
+pinchofyum.com,https://feeds.feedburner.com/pinch-of-yum,Pinch of Yum,Food,Disabled,0.47999999999999998,On,article,,pinchofyum.com
+dilbert.com,https://feeds.feedburner.com/DilbertDailyStrip,Dilbert Daily Strip,Fun,Enabled,2.8100000000000001,,article,,dilbert.com
+theonion.com,https://www.theonion.com/rss,The Onion,Fun,Enabled,2.5800000000000001,,article,,www.theonion.com
+failblog.cheezburger.com,https://feeds.feedburner.com/failblog,FAIL Blog,Fun,Enabled,2.4500000000000002,,article,,cheezburger.com
+theoatmeal.com,https://theoatmeal.com/feed/rss,The Oatmeal,Fun,Disabled,2.3900000000000001,,article,,theoatmeal.com
+smbc-comics.com,https://www.smbc-comics.com/comic/rss,Saturday Morning Breakfast Cereal,Fun,Disabled,1.6200000000000001,,article,,www.smbc-comics.com
+cracked.com,https://feeds.feedburner.com/CrackedRSS,Cracked,Fun,Disabled,1.55,,article,,www.cracked.com
+icanhas.cheezburger.com,https://feeds.feedburner.com/ICanHasCheezburger,I Can Has Cheezburger?,Fun,Disabled,1.25,,article,,cheezburger.com
+penny-arcade.com,https://feeds.penny-arcade.com/pa-mainsite,Penny Arcade,Fun,Disabled,1.21,,article,,www.penny-arcade.com
+healthline.com,https://www.healthline.com/rss/health-news,Healthline,Health,Enabled,12,,article,,www.healthline.com
+webmd.com,https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC,WebMD Health,Health,Enabled,9.4700000000000006,,article,,www.webmd.com
+mayoclinic.org,https://www.mayoclinic.org/rss/all-health-information-topics,Mayo Clinic,Health,Disabled,3.7799999999999998,,article,,www.mayoclinic.org
+menshealth.com,https://www.menshealth.com/rss/all.xml/,Men's Health,Health,Disabled,1.0900000000000001,,article,,www.menshealth.com
+nerdfitness.com,https://feeds.feedburner.com/NerdFitnessBlog,Nerd Fitness,Health,Disabled,0.98999999999999999,,article,,www.nerdfitness.com
+mindbodygreen.com,https://www.mindbodygreen.com/rss/feed.xml,mindbodygreen,Health,Disabled,0.87,,article,,www.mindbodygreen.com
+nejm.org,https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss,New England Journal of Medicine,Health,Disabled,0.47999999999999998,,article,,www.nejm.org
+self.com,https://www.self.com/feed/rss,SELF,Health,Disabled,0.32000000000000001,,article,,www.self.com
+greatist.com,https://greatist.com/feed,Greatist,Health,Disabled,0.23000000000000001,,article,,greatist.com
+wellandgood.com,https://www.wellandgood.com/feed/,Well+Good,Health,Disabled,0.20000000000000001,,article,,www.wellandgood.com
+medicinenet.com/script/main/hp.asp,https://www.medicinenet.com/rss/dailyhealth.xml,MedicineNet,Health,Disabled,0.089999999999999997,,article,,www.medicinenet.com
+shape.com,https://www.shape.com/rss.xml,Shape Magazine,Health,Disabled,-0.070000000000000007,,article,,www.shape.com
+wellnessmama.com,https://wellnessmama.com/feed/,Wellness Mama,Health,Disabled,-0.28999999999999998,,article,,wellnessmama.com
+houzz.com,https://www.houzz.com/getGalleries/featured/out-rss,Houzz,Home,Enabled,16.18,,article,,www.houzz.com
+apartmenttherapy.com,https://www.apartmenttherapy.com/main.rss,Apartment Therapy,Home,Enabled,11.57,,article,,www.apartmenttherapy.com
+design-milk.com,https://feeds.feedburner.com/design-milk,Design Milk,Home,Enabled,7.5199999999999996,,article,,design-milk.com
+bobvila.com,https://www.bobvila.com/rss.xml,Bob Vila,Home,Disabled,0.60999999999999999,,article,,www.bobvila.com
+contemporist.com,https://feeds.feedburner.com/contemporist,Contemporist,Home,Disabled,0.63,,article,,www.contemporist.com
+trendir.com,https://feeds.feedburner.com/trendir/,Trendir,Home,Disabled,0.56000000000000005,,article,,www.trendir.com
+sfgirlbybay.com,https://www.sfgirlbybay.com/feed/,sfgirlbybay,Home,Disabled,0.39000000000000001,,article,,www.sfgirlbybay.com
+poppytalk.com,https://feeds.feedburner.com/blogspot/ISuVv,Poppytalk,Home,Disabled,0.11,,article,,poppytalk.blogspot.com
+juniperhome.com,https://juniperhome.com/blog/feed/,Juniper Home,Home,Disabled,0.059999999999999998,,article,,juniperhome.com
+homedit.com,https://feeds.feedburner.com/Homedit,Homedit,Home,Disabled,-0.19,,article,,www.homedit.com
+makingitlovely.com,https://feeds2.feedburner.com/makingitlovely,Making it Lovely,Home,Disabled,-0.17999999999999999,,article,,makingitlovely.com
+remodelista.com,https://www.remodelista.com/feed/,Remodelista,Home,Disabled,-0.20000000000000001,,article,,www.remodelista.com
+domino.com,https://www.domino.com/feed/,domino,Home,Disabled,-0.33000000000000002,,article,,www.domino.com
+thedesignfiles.net,https://thedesignfiles.net/feed/,The Design Files,Home,Disabled,-0.38,,article,,thedesignfiles.net
+medium.com/starts-with-a-bang?source=rss----458a773bccd2---4,https://medium.com/feed/starts-with-a-bang,Starts With A Bang!,Science,Enabled,7.6900000000000004,,article,,medium.com
+livescience.com,https://feeds.feedburner.com/Livesciencecom,Livescience.com,Science,Enabled,6.1100000000000003,,article,,www.livescience.com
+scientificamerican.com,https://rss.sciam.com/ScientificAmerican-Global,Scientific American,Science,Enabled,5.3099999999999996,,article,,www.scientificamerican.com
+popsci.com,https://www.popsci.com/feed/,Popular Science,Science,Enabled,4.9000000000000004,,article,,www.popsci.com
+nature.com,https://feeds.nature.com/nature/rss/current,Nature,Science,Enabled,4.0599999999999996,,article,,www.nature.com
+space.com,https://www.space.com/feeds/all,Space.com,Science,Disabled,3.9100000000000001,,article,,www.space.com
+sciencemag.org,https://www.science.org/rss/news_current.xml,ScienceMag,Science,Disabled,3.6800000000000002,,article,,www.science.org
+sciencealert.com,https://feeds.feedburner.com/sciencealert-latestnews,ScienceAlert,Science,Disabled,2.8500000000000001,,article,,www.sciencealert.com
+nasa.gov,https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss,NASA Image of the Day,Science,Disabled,1.73,,article,,www.nasa.gov
+newscientist.com,https://feeds.newscientist.com/science-news/,New Scientist,Science,Disabled,1.71,,article,,www.newscientist.com
+arstechnica.com,https://feeds.arstechnica.com/arstechnica/science,Ars Technica,Science,Disabled,1.6100000000000001,,article,,arstechnica.com
+smithsonianmag.com,https://feeds.feedburner.com/smithsonianmag/science-nature,Smithsonian Magazine,Science,Disabled,1.25,,article,,www.smithsonianmag.com
+informationisbeautiful.net,https://feeds.feedburner.com/InformationIsBeautiful,Information is Beautiful,Science,Disabled,1.1299999999999999,,article,,informationisbeautiful.net
+sciencedaily.com,https://www.sciencedaily.com/newsfeed.xml,ScienceDaily,Science,Disabled,1.1000000000000001,,article,,www.sciencedaily.com
+futurism.com,https://futurism.com/feed,Futurism,Science,Disabled,0.87,,article,,futurism.com
+flowingdata.com,https://flowingdata.com/feed,FlowingData,Science,Disabled,0.84999999999999998,,article,,flowingdata.com
+futurity.org,https://www.futurity.org/feed/,Futurity,Science,Disabled,0.54000000000000004,,article,,www.futurity.org
+syfy.com,https://www.syfy.com/syfy-wire/topic/bad-astronomy/feed,Bad Astronomy,Science,Disabled,0.35999999999999999,,article,,www.syfy.com
+phys.org,https://phys.org/rss-feed/,Phys.org,Science,Disabled,0.23000000000000001,On,article,,phys.org
+bigthink.com,https://feeds.feedburner.com/bigthink/main,Big Think,Science,Disabled,0.20000000000000001,,article,,bigthink.com
+nasa.gov/news,https://www.nasa.gov/rss/dyn/breaking_news.rss,NASA Breaking News,Science,Disabled,0.33000000000000002,,article,,www.nasa.gov
+mindhacks.com,https://mindhacks.com/feed/atom/,Mind Hacks,Science,Disabled,-0.059999999999999998,,article,,mindhacks.com
+fivethirtyeight.com,https://fivethirtyeight.com/science/feed/,FiveThirtyEight - Science,Science,Disabled,-0.16,,article,,fivethirtyeight.com
+spectrum.ieee.org,https://feeds2.feedburner.com/IeeeSpectrum,IEEE Spectrum,Science,Disabled,-0.17999999999999999,,article,,spectrum.ieee.org
+espn.com,https://www.espn.com/espn/rss/news,ESPN,Sports,Enabled,17.32,,article,,www.espn.com
+bleacherreport.com,https://bleacherreport.com/articles/feed,Bleacher Report,Sports,Enabled,3.5099999999999998,,article,,bleacherreport.com
+sports.yahoo.com,https://news.yahoo.com/rss/sports,Yahoo! Sports,Sports,Enabled,2.1499999999999999,,article,,news.yahoo.com
+cbssports.com,https://www.cbssports.com/rss/headlines/,CBSSports,Sports,Enabled,2.0299999999999998,,article,,www.cbssports.com
+deadspin.com,https://feeds.feedburner.com/deadspin/,Deadspin,Sports,Disabled,1.49,,article,,deadspin.com
+skysports.com,https://www.skysports.com/rss/11095,SkySports,Sports,Disabled,0.96999999999999997,,article,,www.skysports.com
+espncricinfo.com,https://www.espncricinfo.com/rss/content/story/feeds/0.xml,ESPN - Cricket,Sports,Disabled,0.93000000000000005,,article,,www.espncricinfo.com
+sbnation.com,https://feeds.sbnation.com/rss/current,SBNation.com,Sports,Disabled,0.10000000000000001,,article,,www.sbnation.com
+telegraph.co.uk/sport/,https://www.telegraph.co.uk/sport/rss.xml,The Telegraph - Sports,Sports,Disabled,0.050000000000000003,,article,,www.telegraph.co.uk
+fivethirtyeight.com,https://fivethirtyeight.com/sports/feed/,FiveThirtyEight - Sports,Sports,Disabled,-0.23999999999999999,,article,,projects.fivethirtyeight.com;fivethirtyeight.com
+espnfc.com,https://www.espn.com/espn/rss/soccer/news,ESPN - Football,Sports,Disabled,-0.41999999999999998,,article,,www.espn.com
+foxsports.com,https://api.foxsports.com/v1/rss,FOX Sports,Sports,Disabled,-0.68999999999999995,,article,,www.foxsports.com
+mlbtraderumors.com,https://www.mlbtraderumors.com/feed/atom,MLB Trade Rumors,Sports,Disabled,-0.84999999999999998,,article,,www.mlbtraderumors.com
+blogs.fangraphs.com,https://blogs.fangraphs.com/feed/,FanGraphs Baseball,Sports,Disabled,-0.89000000000000001,,article,,blogs.fangraphs.com
+uproxx.com,https://feeds.feedburner.com/uproxx/withleather,Uproxx - Sports,Sports,Disabled,-1.05,,article,,uproxx.com
+theringer.com,https://www.theringer.com/rss/index.xml,The Ringer,Sports,Disabled,-1.0700000000000001,,article,,www.theringer.com
+feeds.feedburner.com/arseblog.com,https://feeds.feedburner.com/arseblog,Arseblog,Sports,Disabled,-1.1299999999999999,,article,,shows.acast.com
+theathletic.com,https://theathletic.com/rss-feed/,The Athletic,Sports,Disabled,-1.22,,article,,theathletic.com
+basketball.realgm.com/news,https://basketball.realgm.com/rss/realgm_nba_wiretap.xml,RealGM Basketball Wiretap,Sports,Disabled,-1.27,,article,,basketball.realgm.com
+theathletic.com/nba,https://theathletic.com/nba/?rss=1,The Athletic - NBA,Sports,Disabled,-1.27,,article,,theathletic.com
+cnet.com,https://www.cnet.com/rss/news/,CNET News,Technology,Enabled,10.1,On,article,,www.cnet.com
+theverge.com,https://www.theverge.com/rss/full.xml,The Verge,Technology,Enabled,5.96,,article,,www.theverge.com
+engadget.com,https://www.engadget.com/rss-full.xml,Engadget,Technology,Enabled,5.3399999999999999,,article,,www.engadget.com
+wired.com,https://www.wired.com/feed,Wired,Technology,Enabled,3.5499999999999998,,article,,www.wired.com
+lifehacker.com,https://lifehacker.com/rss,Lifehacker,Technology,Enabled,3.1899999999999999,,article,,lifehacker.com
+techcrunch.com,https://techcrunch.com/feed/,TechCrunch,Technology,Enabled,3.1499999999999999,,article,,techcrunch.com
+gizmodo.com,https://gizmodo.com/rss,Gizmodo,Technology,Enabled,2.6499999999999999,,article,,gizmodo.com
+zdnet.com,https://www.zdnet.com/news/rss.xml,ZDNet,Technology,Disabled,2.2999999999999998,,article,,www.zdnet.com
+mashable.com,https://feeds.mashable.com/Mashable,Mashable,Technology,Disabled,1.8300000000000001,On,article,,mashable.com
+techradar.com,https://www.techradar.com/rss,TechRadar,Technology,Disabled,1.7,,article,,www.techradar.com
+digitaltrends.com,https://www.digitaltrends.com/feed/,Digital Trends,Technology,Disabled,1.3100000000000001,,article,,www.digitaltrends.com
+howtogeek.com,https://feeds.howtogeek.com/HowToGeek,How-To Geek,Technology,Disabled,0.92000000000000004,,article,,www.cloudsavvyit.com;www.howtogeek.com;www.reviewgeek.com
+gsmarena.com,https://www.gsmarena.com/rss-news-reviews.php3,GSMArena,Technology,Disabled,0.77000000000000002,,article,,www.gsmarena.com
+androidcentral.com,https://www.androidcentral.com/feed,Android Central,Technology,Disabled,0.47999999999999998,,article,,www.androidcentral.com
+macrumors.com,https://feeds.macrumors.com/MacRumors-Front,MacRumors,Technology,Disabled,-0.070000000000000007,,article,,www.macrumors.com
+venturebeat.com,https://venturebeat.com/feed/,VentureBeat,Technology,Disabled,-0.48999999999999999,,article,,venturebeat.com
+thenextweb.com,https://feeds2.feedburner.com/thenextweb,The Next Web,Technology,Disabled,-0.54000000000000004,,article,,thenextweb.com
+windowscentral.com,https://feeds.feedburner.com/wmexperts,Windows Central,Technology,Disabled,-0.58999999999999997,,article,,www.windowscentral.com
+makeuseof.com,https://feeds.feedburner.com/Makeuseof,MakeUseOf,Technology,Disabled,-0.76000000000000001,,article,,www.makeuseof.com
+hackaday.com,https://hackaday.com/blog/feed/,Hackaday,Technology,Disabled,-0.81000000000000005,,article,,hackaday.com
+9to5mac.com,https://9to5mac.com/feed/,9to5Mac,Technology,Disabled,-0.82999999999999996,,article,,9to5mac.com
+spectrum.ieee.org,https://feeds2.feedburner.com/IeeeSpectrum,IEEE Spectrum,Technology,Disabled,-0.87,,article,,spectrum.ieee.org
+thepointsguy.com,https://feeds.feedburner.com/thepointsguy,The Points Guy,Travel,Enabled,9.9399999999999995,,article,,thepointsguy.com
+lonelyplanet.com,https://www.lonelyplanet.com/articles/news/feed/atom,Lonely Planet,Travel,Enabled,8.9100000000000001,,article,,www.lonelyplanet.com
+atlasobscura.com,https://www.atlasobscura.com/feeds/latest,Atlas Obscura,Travel,Enabled,6.6399999999999997,,article,,www.atlasobscura.com
+stuckincustoms.com,https://feeds.feedburner.com/stuckincustoms/EmRA,Stuck in Customs,Travel,Disabled,2.7000000000000002,,article,,stuckincustoms.com
+onemileatatime.com,https://onemileatatime.com/feed/,One Mile at a Time,Travel,Disabled,2.5099999999999998,,article,,onemileatatime.com
+skift.com,https://skift.com/feed/,Skift,Travel,Disabled,2.5,On,article,,skift.com
+matadornetwork.com,https://matadornetwork.com/feed/,Matador Network,Travel,Disabled,2.0699999999999998,,article,,matadornetwork.com
+adventure.com,https://adventure.com/feed/,Adventure,Travel,Disabled,0.63,,article,,adventure.com
+millionmilesecrets.com,https://feeds.feedburner.com/MillionMileSecrets,Million Mile Secrets,Travel,Disabled,0.31,,article,,millionmilesecrets.com
+flyertalk.com,https://www.flyertalk.com/feed,FlyerTalk,Travel,Disabled,0.25,,article,,www.flyertalk.com
+boardingarea.com,https://boardingarea.com/feed/atom/,BoardingArea,Travel,Disabled,0.17000000000000001,,article,,www.paddleyourownkanoo.com;milesforfamily.com;liveandletsfly.com;travelupdate.com;yourmileagemayvary.net;viewfromthewing.com;youhavebeenupgraded.boardingarea.com;onemileatatime.com;milestomemories.com
+frommers.com,https://www.frommers.com/feed,Frommer's,Travel,Disabled,-1.3100000000000001,,article,,www.frommers.com
+theguardian.com/us/travel,https://www.theguardian.com/us/travel/rss,The Guardian - Travel,Travel,Disabled,-1.3899999999999999,On,article,,www.theguardian.com
+secretflying.com,https://www.secretflying.com/feed/,Secret Flying,Travel,Disabled,-1.3999999999999999,,article,,www.secretflying.com
+travelweekly.com,https://feeds.feedburner.com/TravelWeeklysTopStories,Travel Weekly,Travel,Disabled,-1.4199999999999999,,article,,www.travelweekly.com
+afar.com,https://feeds.feedburner.com/AfarMagazine,AFAR Magazine,Travel,Disabled,-1.45,,article,,www.afar.com
+blog.ricksteves.com,https://blog.ricksteves.com/feed/,Rick Steves' Travel Blog,Travel,Disabled,-1.52,,article,,blog.ricksteves.com
+theflightdeal.com,https://feeds.feedburner.com/TheFlightDeal,The Flight Deal,Travel,Disabled,-1.54,,article,,www.theflightdeal.com
